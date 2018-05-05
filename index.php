@@ -1,3 +1,9 @@
+<?php
+
+require('config.php');
+
+
+?>
 <!DOCTYPE html>
 <html class="js html css_verticalspacer wf-lato-n4-active wf-roboto-n3-active wf-roboto-n4-active wf-roboto-n7-active wf-roboto-n9-active wf-active" lang="en-GB"><head>
   <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
